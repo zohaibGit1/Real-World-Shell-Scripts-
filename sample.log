@@ -1,0 +1,22 @@
+INFO Application Started
+INFO User Login Successful
+INFO Database Connected
+
+Warning Disk Usage High
+Warning Memory Usage High
+
+Error Database Connection Failed
+Error Database Connection Failed
+Error Timeout While Connecting
+Error Timeout While Connecting
+Error Timeout While Connecting
+
+INFO Request Processed
+INFO Request Completed
+
+Warning CPU Usage High
+
+Error Invalid Credentials
+Error Invalid Credentials
+
+INFO User Logout
