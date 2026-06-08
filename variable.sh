@@ -1,4 +1,5 @@
 #variable
+This update is from development branch
 hero="Zohaib"
 villian="Dark Soul"
 echo "This is the hero name $hero"
